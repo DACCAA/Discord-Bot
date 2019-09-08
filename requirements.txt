@@ -1,0 +1,8 @@
+discord.py==0.16.12
+requests
+aiohttp
+websockets
+chardet
+aiml
+youtube_dl
+pynacl
